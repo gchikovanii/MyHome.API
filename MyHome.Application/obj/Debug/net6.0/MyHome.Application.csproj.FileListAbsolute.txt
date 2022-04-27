@@ -1,0 +1,17 @@
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Application.deps.json
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Application.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Application.pdb
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Infrastructure.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\bin\Debug\net6.0\MyHome.Infrastructure.pdb
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.AssemblyInfoInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.AssemblyInfo.cs
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.csproj.CopyComplete
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\refint\MyHome.Application.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\MyHome.Application.pdb
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Application\obj\Debug\net6.0\ref\MyHome.Application.dll

@@ -1,0 +1,12 @@
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\bin\Debug\net6.0\MyHome.Domain.deps.json
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\bin\Debug\net6.0\MyHome.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\bin\Debug\net6.0\MyHome.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.AssemblyInfoInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.AssemblyInfo.cs
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\refint\MyHome.Domain.dll
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\MyHome.Domain.pdb
+D:\Full-Stack\Visual studio 2022\Projects\MyHome.API\MyHome.Domain\obj\Debug\net6.0\ref\MyHome.Domain.dll
