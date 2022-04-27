@@ -3,6 +3,7 @@ This is a buy-sale houses advertismenet API. The project includes: creation of a
 Project includes pagination logic to represent advertisements on one page!
 # 
 Filtering advertisments and all related features are implemented!
+#
 For saving pictures is used cloudinary!
 #
 Registers and authorizes User account with different user roles using Microsoft Identity!
