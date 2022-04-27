@@ -9,4 +9,5 @@ For saving pictures is used cloudinary!
 Registers and authorizes User account with different user roles using Microsoft Identity!
 #
 Project includes background tasks: for ex. advertisment validation date (After 30 days advertisments expires)
+#
 In addition, project includes JWT token authentication and many other features are implemented!
